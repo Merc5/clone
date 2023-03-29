@@ -70,6 +70,13 @@
  
  /* CURSOR AND BODY */
  body, a:hover {cursor: url(), progress !important;}
+
+ @media only screen and (max-width: 400px) {
+  .body {
+    width: 90%;
+    height: 90%;
+  }
+ }
  
  body{ 
  color:#898989;
