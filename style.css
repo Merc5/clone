@@ -46,7 +46,7 @@
  .module_gift {display:none;}
  a.send-message-link {display:none}
  a.xj_block_messages {display:none}
- dd.profile-like-button {display:none}
+ dd.profile-like-button {display:nhttp://cur.cursors-4u.net/cursors/cur-9/cur817.curone}
  
  /* COMMENT WALL */
  
@@ -69,12 +69,12 @@
  .xg_chat.chatFooter .xg_chatBar {display: none; }
  
  /* CURSOR AND BODY */
- body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur817.cur), progress !important;}
+ body, a:hover {cursor: url(), progress !important;}
  
  body{ 
  color:#898989;
  background-color:; 
-   background:url(https://img00.deviantart.net/2b5d/i/2012/282/9/2/dark_forest_by_rodrigoyagami-d5hb4q5.jpg);
+   background:url(heart-gif-9.gif);
      no-repeat center center fixed; 
    -webkit-background-size:cover;
    -moz-background-size:cover;
@@ -101,7 +101,7 @@
   
  }
  #you .cont { 
-   background:url('http://media.tumblr.com/tumblr_m94gf0eNhZ1rtxphc.gif');
+   background:url('');
    background-size:410px;
    background-position:180px -5px;
    position: relative;
